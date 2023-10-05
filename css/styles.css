@@ -194,6 +194,7 @@
     background-color: #FFFFFF;
 }
 
-.button-class-one:hover, button-class-one:focus {
+.button-class-one:hover, 
+.button-class-one:focus {
     background-color: #404BBF;
 }

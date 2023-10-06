@@ -29,6 +29,14 @@
     color: #404bbf;
 }
 
+.add-ref: {
+    #434455;
+}
+
+.add-ref:hover, .add-ref:focus {
+    color: #404bbf;
+}
+
 .header-field {
     background: var(--DAIRY, #FCFCFC);
 

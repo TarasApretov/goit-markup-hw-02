@@ -20,6 +20,15 @@
     color:#2e2f42;
 }
 
+.nav-ref {
+    color: #2e2f42;
+
+}
+
+.nav-ref:hover, .nav-ref:focus {
+    color: #404bbf;
+}
+
 .header-field {
     background: var(--DAIRY, #FCFCFC);
 

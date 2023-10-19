@@ -1,3 +1,14 @@
+
+.li-class {
+    list-style-type: none;
+}
+
+.link {
+    text-decoration: none;
+}
+
+
+
 .body-class {
     font-family: "Roboto", sans-serif;
     color: #434455;
